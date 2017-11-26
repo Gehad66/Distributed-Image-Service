@@ -1,0 +1,7 @@
+Amr	Galal	127.0.0.1	39011	0
+Geh	Geh	127.0.0.1	39012	1
+akl	akl	127.0.0.1	39011	0
+aya	aya	127.0.0.1	39011	1
+gehad	gehad	127.0.0.1	11039	0
+samah	samah	127.0.0.1	11039	0
+semo	semo	127.0.0.1	11038	0
